@@ -1,2 +1,2 @@
 # vrbook
-a 3d vrbook for children.
+A 3d vrbook designed for autistic children.
