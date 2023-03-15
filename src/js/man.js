@@ -53,8 +53,8 @@ function initMeshes(){
     // loader.load('models/gltf/tokyo.glb',function(gltf){
     //     //console.log(gltf);
     //     scene.add(gltf.scene);
-    // });
-    loader.load('models/gltf/man.glb',function(gltf){
+    // });src\static
+    loader.load('src/static/models/man.glb',function(gltf){
         //console.log(gltf);
         scene.add(gltf.scene);
     });
